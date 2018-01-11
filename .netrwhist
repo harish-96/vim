@@ -1,6 +1,6 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/work/04901/harish96/maverick/conv_autoencoder_2'
-let g:netrw_dirhist_2='/work/04901/harish96/maverick/conv_autoencoder_2/timelySave256'
-let g:netrw_dirhist_3='/work/04901/harish96/maverick/conv_autoencoder_2'
-let g:netrw_dirhist_4='/work/04901/harish96/maverick/conv_autoencoder_2/timelySave5'
+let g:netrw_dirhist_1='/home/harish/Dropbox/Study/sem_7/BTP/reports'
+let g:netrw_dirhist_2='/home/harish/.vim/ftplugin'
+let g:netrw_dirhist_3='/home/harish/.gconf'
+let g:netrw_dirhist_4='/home/harish'
